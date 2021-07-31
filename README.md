@@ -12,5 +12,3 @@ we can use any pre trained model for transfer learning such as inception ,vgg16,
 this was my model with 98.8 percent accuracy with only total of 100 images of mr. colin and mr bush with accurate predictions.
 once again thanking both of you vimal sir and preeti mam for effort you put in us.
 parivansh deep singh
-Rohit Bhatia
-Shaurya khanna
